@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 n=28
+=======
+n=26
+>>>>>>> Stashed changes
 for i in range(n):
 print(i)
