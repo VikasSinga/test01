@@ -1,2 +1,3 @@
 new file
 reset
+reset --hard
