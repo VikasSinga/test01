@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DiamondPattern {
+public class code {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of rows for the diamond: ");
