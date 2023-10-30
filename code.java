@@ -1,11 +1,6 @@
-import java.util.Scanner;
-
-public class code {
+public class DiamondPattern {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter the number of rows for the diamond: ");
-        int n = input.nextInt();
-        input.close();
+        int n = 7; // Change this to the desired number of rows
 
         if (n % 2 == 0) {
             System.out.println("Please enter an odd number for a proper diamond pattern.");
@@ -57,4 +52,3 @@ public class code {
         }
     }
 }
-
